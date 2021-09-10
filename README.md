@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Bruno
 📘 Graduando em análise e desenvolvimento de sistemas
 <br>
-❤ Hoje Direciono meus estudos ao desenvolvimento Mobile
+😃 Entusiasta em desenvolvimento Mobile
 
  <div style="display: inline_block">
   <a href="https://github.com/brunosllz">
