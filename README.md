@@ -19,4 +19,4 @@ Minha stack atualmente:
 
 ## About me 😁
 - 📘 Graduando em Análise e Desemvolvimento de Sistemas pelo IFRS.
-- 👋 Vamo trocar uma ideia sobre Desenvolvimento Web, Design, séries, viajens. 🚀
+- 👋 Bora trocar uma ideia sobre Desenvolvimento Web, Design, séries, viajens. 🚀
