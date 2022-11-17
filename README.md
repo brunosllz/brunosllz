@@ -13,7 +13,7 @@
 
 
 Minha stack atualmente:
-- 💻 Web Devoloper/Analista de Sistemas em uma indústria de móveis
+- 💻 Web Developer/Analista de Sistemas em uma indústria de móveis
 
 <br/>
 
