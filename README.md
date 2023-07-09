@@ -1,22 +1,16 @@
-# Bruno Luiz
+### Hi, I'm Bruno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-<br/>
+I’m a Full Stack Software Engineer.   
+Enthusiastic about the very best in web and mobile development! 🚀
 
-<div>
-   <a href="https://www.linkedin.com/in/bruno-silveira-luiz-523a361a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href = "mailto:brunoslvrlz13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>
- 
-<br/>
- 
-<p> Entusiasta no que a de melhor no desenvolvimento Web e mobile </p>
+#### My current tools 
+🌎 Front-end Web with Next.JS/React   
+📲 Front-end Mobile with React Native   
+📡 Back-end with Nodejs   
+🛠️ Typescript   
+🧰 And more...  
 
+#### 💬 Find me elsewhere
 
-Minha stack atualmente:
-- 💻 Web Developer/Analista de Sistemas em uma indústria de móveis
-
-<br/>
-
-## About me 😁
-- 📘 Graduando em Análise e Desemvolvimento de Sistemas pelo IFRS.
-- 👋 Bora trocar uma ideia sobre Desenvolvimento Web, Design, séries, viajens. 🚀
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-silveira-luiz/)](https://www.linkedin.com/in/bruno-silveira-luiz/) 
+[![Gmail Badge](https://img.shields.io/badge/-brunoslvrlz13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunoslvrlz13@gmail.com)](mailto:brunoslvrlz13@gmail.com)
