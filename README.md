@@ -6,7 +6,7 @@ Enthusiast what is the best in web and mobile development! 🚀
 #### My current tools 
 🌎 Front-end Web with Next.JS/React   
 📲 Front-end Mobile with React Native   
-📡 Back-end with Nodejs   
+📡 Back-end with Nodejs/Nest.JS
 🛠️ Typescript   
 🧰 And more...  
 
